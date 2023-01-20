@@ -55,6 +55,7 @@
   position: relative;
   z-index: 1;
   transition: color 0.5s;
+  color: #fff;
 }
 
 .banner_btn a span {
